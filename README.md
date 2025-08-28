@@ -1,8 +1,6 @@
 # Seleksi Lab Sister ITB 2025 - 18223105
 
-Repository ini berisi hasil pengerjaan seleksi Laboratorium Sister ITB tahun 2025 oleh Zheannetta Apple (18223105), sesuai instruksi pada dokumen seleksiB2.pdf. Hanya soal nomor 2, 3, dan 8 yang dikerjakan.
-
-## Profil Peserta
+Repository ini berisi hasil pengerjaan seleksi Laboratorium Sister ITB tahun 2025 oleh Zheannetta Apple (18223105)
 
 - **NIM:** 18223105
 - **Nama:** Zheannetta Apple
